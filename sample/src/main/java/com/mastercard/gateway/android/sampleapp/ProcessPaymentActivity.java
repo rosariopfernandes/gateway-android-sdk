@@ -26,7 +26,7 @@ public class ProcessPaymentActivity extends AppCompatActivity {
 
     // static for demo
     static final String AMOUNT = "1.00";
-    static final String CURRENCY = "USD";
+    static final String CURRENCY = "MZN";
 
     ActivityProcessPaymentBinding binding;
     Gateway gateway;
